@@ -11,5 +11,4 @@ while(nota_invalida):
     nota_de_ingles=int(input("escriba otra vez la nota: "))
     nota_invalida=(nota_de_ingles<=0 or nota_de_ingles>=100)
 # fin_while
-
 print("fin del bucle")
