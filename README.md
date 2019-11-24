@@ -1,0 +1,2 @@
+# t07_Sanchez.Ramos
+nombre de integrantes: SANCHEZ OLIVOS ELTON JHONEL - RAMOS TITO YONSTI JAMPIER
